@@ -1,6 +1,6 @@
 # Entidades a serem atribuídas para o sistema de notificação de agravos
 
-1. Paciente - deverão ser cadastrados pacientes cuja as notificações deverão incluir as seguintes sub-classes:
+1. Notificações - deverão ser cadastradas notificações cuja as informações deverão incluir as seguintes sub-classes:
 
 - Dados gerais:
     - Agravo/doença: MALÁRIA 
